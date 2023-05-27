@@ -1,9 +1,10 @@
-### Hi there 👋 Welcome to my GitHub. 
+### Hi 👋 Welcome to my GitHub profile, I`m Matheus Oliveira. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattsantoss&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on JAVA, HTML AND CSS
 - 🌱 I’m currently living in San Diego - CA 
 - 📫 How to reach me: matt.santosd@gmail.com
-- 🐱‍👤 Fun fact: I love jiu jitsu - Blue belt BJJ
+- 🐱‍👤 Fun fact: I love jiu jitsu - Blue belt BJJ and CS GO
   </br>
   </br>
  
@@ -24,7 +25,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
  
-## 😎Contact
+## 😎 Contact
  
 <div> 
   <a href="https://www.linkedin.com/in/matheus-oliveira-dos-santos-869333a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
