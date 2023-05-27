@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on JAVA, HTML AND CSS
 - 🌱 I’m currently living in San Diego - CA 
 - 📫 How to reach me: matt.santosd@gmail.com
-- ⚡ Fun fact: I love jiu jitsu - Blue belt BJJ
+- 🐱‍👤 Fun fact: I love jiu jitsu - Blue belt BJJ
 
  <div>
   <a href="https://github.com/mattsantoss">
@@ -25,8 +25,4 @@
   <a href="https://www.instagram.com/_bassmatheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matt.santosd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/mattsantoss/mattsantoss/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
