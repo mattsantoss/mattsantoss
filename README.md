@@ -1,7 +1,7 @@
 ### Hi 👋 Welcome to my GitHub profile, I`m Matheus Oliveira. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattsantoss&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on JAVA, HTML AND CSS
+- 🔭 I’m currently working on JAVA, JAVA SPRING BOOT, HTML AND CSS
 - 🌱 I’m currently living in San Diego - CA 
 - 📫 How to reach me: matt.santosd@gmail.com
 - 🐱‍👤 Fun fact: I love jiu jitsu - Blue belt BJJ and CS GO
